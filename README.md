@@ -1,2 +1,0 @@
-# qbet
-qbet site
